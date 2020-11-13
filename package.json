@@ -1,0 +1,14 @@
+{
+  "name": "dznvolve-labs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "repository": "git@github.com:dznvolve/dznvolve-labs.git",
+  "author": "Gabriel Rodrigues <gabriel.desenvolve@gmail.com>",
+  "license": "MIT"
+}
