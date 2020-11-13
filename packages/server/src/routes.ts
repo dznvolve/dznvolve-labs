@@ -1,13 +1,13 @@
-import express from 'express';
+import express from 'express'
 
-const routes = express.Router();
+const routes = express.Router()
 
 routes.get('/', (request, response) => {
-  return response.json({ message: 'Hello World' });
-});
+  return response.json({ message: 'Hello World' })
+})
 
 routes.post('/posts', (request, response) => {
-  return response.json({ message: 'New post' });
-});
+  return response.json({ message: 'New post' })
+})
 
-export default routes;
+export default routes
