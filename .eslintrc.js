@@ -1,3 +1,3 @@
-const eslintConfig = require('@dznvolve/eslint-config')
+const eslintConfig = require('@dnzvolve-labs/eslint-config')
 
 module.exports = eslintConfig
