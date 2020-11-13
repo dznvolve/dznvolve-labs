@@ -1,3 +1,3 @@
-const eslintConfig = require('@omnirepo/eslint-config')
+const eslintConfig = require('@dznvolve/eslint-config')
 
 module.exports = eslintConfig
