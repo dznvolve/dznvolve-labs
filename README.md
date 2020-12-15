@@ -3,11 +3,11 @@ Web{
   reactJS
 } 
 
-mobile {
+Mobile {
   react-native
 } 
 
-and server {
+Server {
   nodeJS
 }
 
