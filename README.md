@@ -1,5 +1,5 @@
 # Workflow Dznvolve Labs
-Web{
+Web {
   reactJS
 } 
 
